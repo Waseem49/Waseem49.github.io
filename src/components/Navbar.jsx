@@ -18,8 +18,7 @@ import "./Navbar.scss";
 
 const Navbar = () => {
   const { colorMode, toggleColorMode } = useColorMode();
-  const [title, setTitle] = useState("Home");
-
+  const [title, setTitle] = useState("" || "Home");
   return (
     <>
       <div>
