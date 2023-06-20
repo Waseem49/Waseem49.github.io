@@ -33,7 +33,7 @@ const Projects = () => {
       image:
         "https://github.com/izhar100/festive-crayon-1023/assets/95142289/7de3dd54-3807-4bfb-b8c5-4a029ef784d6",
       techStack: ["CSS", "React", "Redux-thunk", "Redux", "MongoDB", "Express"],
-      github: "https://github.com/izhar100/festive-crayon-1023/",
+      github: "https://github.com/izhar100/festive-crayon-1023",
       demo: "https://fitquests.netlify.app/",
     },
     {
