@@ -30,8 +30,7 @@ const Projects = () => {
       name: "FitQuest",
       description:
         "FitQuest is an innovative, gamified fitness tracking application designed to provide users with a curated list of daily workouts for optimal health and wellness.",
-      image:
-        "https://github.com/izhar100/festive-crayon-1023/assets/95142289/7de3dd54-3807-4bfb-b8c5-4a029ef784d6",
+      image: "https://i.ibb.co/jJnnm9b/fitqqq.png",
       techStack: ["CSS", "React", "Redux-thunk", "Redux", "MongoDB", "Express"],
       github: "https://github.com/izhar100/festive-crayon-1023",
       demo: "https://fitquests.netlify.app/",
