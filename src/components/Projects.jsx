@@ -6,57 +6,45 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      name: "Gadget Galaxy",
+      name: "Clothingo",
       description:
-        "Gadge Galaxy - It is a design-obsessed lifestyle accessories brand committed to making your everyday carry #lessordinary.",
+        "Clothingo - It is a design-obsessed lifestyle accessories brand committed to making your everyday carry #lessordinary.",
       image:
-        "https://narender24681.github.io/Projects-Images/DailyObjects-Clone.png",
-      techStack: ["React", "Redux-Thunk", "Mongoose"],
-      github: "https://github.com/PoojaRathod5/native-order-609",
-      demo: "https://gadgetgalaxy.netlify.app/",
+        "https://user-images.githubusercontent.com/104666876/208307949-419a681f-aed5-42ce-9911-f9acd87569b5.png",
+      techStack: ["HTML", "CSS", "JAVASCRIPT"],
+      github: "https://github.com/hrithikvishwakarma001/clothingo",
+      demo: "luxury-vacherin-56d222.netlify.app/",
     },
     {
       id: 2,
-      name: "TelePharmacy",
+      name: "Gleams",
       description:
-        "TelePharmacy 24x7 is a digital healtcare platform, which provides online doctors consultation, online pharmacy and diagnostic tests at home.",
-      image:
-        "https://user-images.githubusercontent.com/112754760/238128231-a627ba27-11ad-4921-b86e-a47a7e8c13f4.png",
+        "Gleams (E-commerce platform) is an React.js application designed to provide customers with a personalized easy-to-utilize user experience for purchasing jwellery and watches online. It stores customers' personal data and orders.",
+      image: "https://i.postimg.cc/PfSW4FMD/Screenshot-2023-05-13-151034.png",
       techStack: ["Chakra UI", "React", "Redux-thunk", "Redux", "SCSS"],
-      github: "https://github.com/Shahid0143/tan-shock-2774",
-      demo: "https://grand-conkies-b7c025.netlify.app/",
+      github: "https://github.com/santoshsen96/hunky-force-333",
+      demo: "https://lucky-maamoul-8919c5.netlify.app/",
     },
     {
       id: 3,
-      name: "Infinity Jewellers",
+      name: "FitQuest",
       description:
-        "This is the clone of caratlane website which offers the best gold & diamond jewellery designs online",
-      image: "https://i.ibb.co/J3HBznH/Cartlane.png",
-      techStack: ["CSS", "React", "Redux-thunk", "Redux"],
-      github: "https://github.com/PoojaRathod5/new-bucket-3441",
-      demo: "https://celestial-bubble-1320-cjzn.vercel.app/",
+        "FitQuest is an innovative, gamified fitness tracking application designed to provide users with a curated list of daily workouts for optimal health and wellness.",
+      image:
+        "https://github.com/izhar100/festive-crayon-1023/assets/95142289/7de3dd54-3807-4bfb-b8c5-4a029ef784d6",
+      techStack: ["CSS", "React", "Redux-thunk", "Redux", "MongoDB", "Express"],
+      github: "https://github.com/izhar100/festive-crayon-1023/",
+      demo: "https://fitquests.netlify.app/",
     },
     {
       id: 4,
-      name: "DailyObjects Clone",
+      name: "Amazon Clone",
       description:
-        "DaliyObjects is a multi-national retail clothing chain. It specializes in fast fashion and sells clothing, accessories, shoes, beauty products, and perfumes.",
-      image:
-        "https://narender24681.github.io/Projects-Images/DailyObjects-Clone.png",
-      techStack: ["HTML", "CSS", "Javascript"],
-      github: "https://github.com/Tarkeshwar18/royal-stew-1115",
-      demo: "https://regal-yeot-b37826.netlify.app/",
-    },
-
-    {
-      id: 5,
-      name: "TimeCamp ",
-      description:
-        "TimeCamp is centralized automated system that makes it easy for teams to work on all aspects of their programs and projects",
-      image: "https://i.ibb.co/jgCFshg/Screenshot-528.png",
-      techStack: ["HTML", "CSS", "Javascript"],
-      github: "https://github.com/MrVivek30/violet-support-6758",
-      demo: "https://timecampp.netlify.app/",
+        "Amazon is a multi-national retail. It specializes in fast fashion and sells clothing, accessories, shoes, beauty products, and perfumes.",
+      image: "https://i.ibb.co/VWLbqwC/amzon.png",
+      techStack: ["HTML", "CSS", "Javascript", "React"],
+      github: "https://github.com/Waseem49/amazon-clone",
+      demo: "https://gorgeous-moxie-1463ef.netlify.app/",
     },
   ];
 

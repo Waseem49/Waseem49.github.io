@@ -36,10 +36,10 @@ const Contact = () => {
 
       emailjs
         .sendForm(
-          "service_ivzpi7u",
-          "template_81iotbj",
+          "service_9w1m667",
+          "template_wqr709f",
           form.current,
-          "VqUTXQTV0xMBqe2bo"
+          "FbMwQoqo3zC_6iVqR"
         )
         .then(
           (result) => {
@@ -97,7 +97,7 @@ const Contact = () => {
               <FaHome />
               <Text as="b">Muzaffarpur,Bihar</Text>
             </Box>
-            <a href="mailto:ssraza143@gmail.com?subject=Hello&body=This%20is%20a%20test%20email">
+            <a href="mailto:mdwaseem0603@gmail.com?subject=Hello&body=This%20is%20a%20test%20email">
               <Box
                 id="contact-email"
                 as="b"

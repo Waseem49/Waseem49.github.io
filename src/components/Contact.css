@@ -32,10 +32,10 @@
   height: 3rem;
   padding: 0.3em;
   outline: none;
-  border: 2px solid whitesmoke;
+  border: 2px solid black;
   border-radius: 8px;
   font-size: 19px;
-  color: white;
+  color: black;
 }
 
 .c-right .user:hover {

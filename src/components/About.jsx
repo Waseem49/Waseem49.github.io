@@ -169,6 +169,7 @@ const About = () => {
                 width={{ base: "80%", md: "100%" }}
                 maxWidth="400px"
                 marginTop="55px"
+                borderRadius="35px 0px  "
                 variants={isTouched ? imageVariants : {}}
                 initial="initial"
                 animate={isTouched ? "touched" : "reset"}
