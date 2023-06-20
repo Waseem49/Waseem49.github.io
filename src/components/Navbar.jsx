@@ -34,7 +34,7 @@ const Navbar = () => {
         top="0"
         left="0"
         right="0"
-        background={colorMode === "light" ? "#b0bec5" : "black"}>
+        background={colorMode === "light" ? "#8BC6BC" : "#272828"}>
         <Flex
           justify={"space-between"}
           height="4rem"
@@ -43,11 +43,7 @@ const Navbar = () => {
           <Box height="3.5rem" marginLeft={{ base: "2px", lg: "2rem" }}>
             <Link href="#">
               <Image
-                src={
-                  colorMode === "dark"
-                    ? "https://static.vecteezy.com/system/resources/thumbnails/012/793/822/small/sr-initial-letter-gold-calligraphic-feminine-floral-hand-drawn-heraldic-monogram-antique-vintage-style-luxury-logo-design-premium-vector.jpg"
-                    : "https://static.vecteezy.com/system/resources/thumbnails/012/793/822/small/sr-initial-letter-gold-calligraphic-feminine-floral-hand-drawn-heraldic-monogram-antique-vintage-style-luxury-logo-design-premium-vector.jpg"
-                }
+                src={"https://i.ibb.co/dMwtMnd/w-logo.png"}
                 height={"3.5rem"}
                 borderRadius={"1.3rem"}
               />
