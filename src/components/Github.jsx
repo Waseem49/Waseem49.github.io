@@ -5,7 +5,12 @@ import GitHubCalendar from "react-github-calendar";
 const Github = () => {
   return (
     <>
-      <Heading marginTop="30px" mb="2rem" textAlign={"center"}>
+      <Heading
+        marginTop="30px"
+        mb="3rem"
+        textAlign={"center"}
+        fontSize="4xl"
+        fontWeight="600">
         Github Stats
       </Heading>
       <Box>

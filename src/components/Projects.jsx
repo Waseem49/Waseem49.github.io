@@ -59,7 +59,7 @@ const Projects = () => {
         Projects
       </Text>
       <Box
-        //border="1px solid yellow"
+        // border="1px solid yellow"
         display="grid"
         width="100%"
         margin="auto"
@@ -76,13 +76,10 @@ const Projects = () => {
             <Box
               backgroundColor={"var(--purple)"}
               border="0.5px solid grey"
-              //  box-shadow= 0 0 9px #7500fa;
-
               className="project-card"
-              // boxShadow="md"
               sx={{
                 ":hover": {
-                  boxShadow: "0 0 9px #7500fa",
+                  boxShadow: "0 0 10px #898C8D",
                 },
               }}
               p="6"
@@ -119,7 +116,9 @@ const Projects = () => {
               <Text
                 className="project-description"
                 marginTop="10px"
+                fontFamily={"cursive"}
                 fontSize={{ base: "sm", md: "md" }}>
+                
                 {el.description}
               </Text>
               <Box
@@ -137,10 +136,12 @@ const Projects = () => {
                     size={{ base: "sm", md: "md" }}
                     fontSize={{ base: "sm", md: "md" }}
                     // color="white"
-                    style={{ backgroundColor: "black", color: "white" }}
+                    border={"1px solid white"}
+                    width="max-content"
+                    style={{ backgroundColor: "#272828", color: "white" }}
                     sx={{
                       ":hover": {
-                        boxShadow: "0 0 9px #7500fa",
+                        boxShadow: "0 0 10px #898C8D",
                         color: "white",
                       },
                     }}>
@@ -160,10 +161,12 @@ const Projects = () => {
                     size={{ base: "sm", md: "md" }}
                     fontSize={{ base: "sm", md: "md" }}
                     // color="white"
-                    style={{ backgroundColor: "black", color: "white" }}
+                    border={"1px solid white"}
+                    width="max-content"
+                    style={{ backgroundColor: "#272828", color: "white" }}
                     sx={{
                       ":hover": {
-                        boxShadow: "0 0 9px #7500fa",
+                        boxShadow: "0 0 10px #898C8D",
                         color: "white",
                       },
                     }}>

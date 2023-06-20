@@ -133,7 +133,8 @@ const About = () => {
           <Box
             padding={{ base: "20px", md: "40px" }}
             marginTop={{ base: "30px", md: "20px" }}
-            width={{ base: "100%", md: "80%" }}>
+            width={{ base: "100%", md: "80%" }}
+            fontFamily={"cursive"}>
             <Text
               id="user-detail-intro"
               fontSize={{ base: "lg", md: "xl" }}

@@ -70,9 +70,9 @@ const Contact = () => {
           margin="auto">
           <Text
             className="about-H"
-            fontSize={{ base: "xl", md: "2xl" }}
-            fontWeight="extrabold"
-            marginRight="120px"
+            fontSize={{ base: "xl", md: "4xl" }}
+            fontWeight="600"
+            margin={"auto"}
             marginTop="60px">
             Contact Me
           </Text>
@@ -86,7 +86,8 @@ const Contact = () => {
             display="grid"
             justifyContent="center"
             alignItems="center"
-            className="contact">
+            className="contact"
+            fontFamily={"cursive"}>
             <Box
               as="b"
               fontSize="20px"
@@ -195,10 +196,11 @@ const Contact = () => {
                         {notDone && "Please, fill all the input field"}
                       </span>
                       <Button
-                        style={{ backgroundColor: "black", color: "white" }}
+                        border={"1px solid white"}
+                        style={{ backgroundColor: "#272828", color: "white" }}
                         sx={{
                           ":hover": {
-                            boxShadow: "0 0 9px #7500fa",
+                            boxShadow: "0 0 10px #898C8D",
                             color: "white",
                           },
                         }}

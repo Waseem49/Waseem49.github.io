@@ -37,16 +37,21 @@ const Sidebar = () => {
         <DrawerContent>
           {/* <DrawerHeader borderBottomWidth='1px'>Basic Drawer</DrawerHeader> */}
           <Box
-            backgroundColor={"black"}
+            backgroundColor={"#272828"}
             borderBottomWidth="1px"
             display={"flex"}
             justifyContent={"space-between"}
             padding={"10px"}>
             <Button
-              backgroundColor={"black"}
-              border="1px solid white"
+              border={"1px solid white"}
               width="max-content"
-              color={"white"}
+              style={{ backgroundColor: "#272828", color: "white" }}
+              sx={{
+                ":hover": {
+                  boxShadow: "0 0 10px #898C8D",
+                  color: "white",
+                },
+              }}
               id="resume-button-1"
               className="nav-link resume"
               onClick={() => {
@@ -66,11 +71,21 @@ const Sidebar = () => {
                 <AiOutlineDownload fontSize={"1.2rem"} />
               </Text>
             </Button>
-            <Button onClick={onClose}>
+            <Button
+              border={"1px solid white"}
+              width="max-content"
+              style={{ backgroundColor: "#272828", color: "white" }}
+              sx={{
+                ":hover": {
+                  boxShadow: "0 0 10px #898C8D",
+                  color: "white",
+                },
+              }}
+              onClick={onClose}>
               <CloseIcon />
             </Button>
           </Box>
-          <DrawerBody backgroundColor={" #10144ead"}>
+          <DrawerBody backgroundColor={"#272828"}>
             <Box textAlign="center">
               <Link
                 onClick={() => {

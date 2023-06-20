@@ -64,7 +64,7 @@ const Home = () => {
               }}
             />
 
-            <Text>
+            <Text fontFamily={"cursive"}>
               Aspiring Full Stack Web Developer Skilled in MERN stack with
               hands-on experience in developing scalable websites using a wide
               range of Front-end and Back-end skills like HTML, CSS, JavaScript,
@@ -81,10 +81,11 @@ const Home = () => {
                 href={"#"}
                 // _hover={{
                 //   bg: "#0d0443",
-                style={{ backgroundColor: "black", color: "white" }}
+                border={"1px solid white"}
+                style={{ backgroundColor: "#272828", color: "white" }}
                 sx={{
                   ":hover": {
-                    boxShadow: "0 0 9px #7500fa",
+                    boxShadow: "0 0 10px #898C8D",
                     color: "white",
                   },
                 }}>

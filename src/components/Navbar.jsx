@@ -40,11 +40,11 @@ const Navbar = () => {
           height="4rem"
           align={"center"}
           transition={"all 1s"}>
-          <Box height="3.5rem" marginLeft={{ base: "2px", lg: "2rem" }}>
+          <Box height="4rem" marginLeft={{ base: "2px", lg: "2rem" }}>
             <Link href="#">
               <Image
                 src={"https://i.ibb.co/dMwtMnd/w-logo.png"}
-                height={"3.5rem"}
+                height={"4rem"}
                 borderRadius={"1.3rem"}
               />
             </Link>
@@ -55,7 +55,9 @@ const Navbar = () => {
             width={"50%"}
             justify="space-around"
             align={"center"}
-            marginRight="2rem">
+            marginRight="2rem"
+            fontSize={"18px"}
+            fontFamily={"cursive"}>
             <Link
               onClick={() => setTitle("Home")}
               href="#home"
@@ -87,15 +89,12 @@ const Navbar = () => {
               contact
             </Link>
             <Button
-              _hover={{ bg: "#0d0443" }}
               border={"1px solid white"}
-              // backgroundColor={"black"}
               width="max-content"
-              // color={"white"}
-              style={{ backgroundColor: "black", color: "white" }}
+              style={{ backgroundColor: "#272828", color: "white" }}
               sx={{
                 ":hover": {
-                  boxShadow: "0 0 9px #7500fa",
+                  boxShadow: "0 0 10px #898C8D",
                   color: "white",
                 },
               }}
