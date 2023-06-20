@@ -25,16 +25,16 @@ const Projects = () => {
       github: "https://github.com/santoshsen96/hunky-force-333",
       demo: "https://lucky-maamoul-8919c5.netlify.app/",
     },
-    {
-      id: 3,
-      name: "FitQuest",
-      description:
-        "FitQuest is an innovative, gamified fitness tracking application designed to provide users with a curated list of daily workouts for optimal health and wellness.",
-      image: "https://i.ibb.co/jJnnm9b/fitqqq.png",
-      techStack: ["CSS", "React", "Redux-thunk", "Redux", "MongoDB", "Express"],
-      github: "https://github.com/izhar100/festive-crayon-1023",
-      demo: "https://fitquests.netlify.app/",
-    },
+    // {
+    //   id: 3,
+    //   name: "FitQuest",
+    //   description:
+    //     "FitQuest is an innovative, gamified fitness tracking application designed to provide users with a curated list of daily workouts for optimal health and wellness.",
+    //   image: "https://i.ibb.co/jJnnm9b/fitqqq.png",
+    //   techStack: ["CSS", "React", "Redux-thunk", "Redux", "MongoDB", "Express"],
+    //   github: "https://github.com/izhar100/festive-crayon-1023",
+    //   demo: "https://fitquests.netlify.app/",
+    // },
     {
       id: 4,
       name: "Amazon Clone",
