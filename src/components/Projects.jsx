@@ -14,18 +14,9 @@ const Projects = () => {
       github: "https://github.com/Waseem49/ebn",
       demo: "https://ebn-waseem49.vercel.app/",
     },
+
     {
       id: 2,
-      name: "Gleams",
-      description:
-        "Gleams (E-commerce platform) is an React.js application designed to provide customers with a personalized easy-to-utilize user experience for purchasing jwellery and watches online. It stores customers' personal data and orders.",
-      image: "https://i.postimg.cc/PfSW4FMD/Screenshot-2023-05-13-151034.png",
-      techStack: ["Chakra UI", "React", "Redux-thunk", "Redux", "SCSS"],
-      github: "https://github.com/santoshsen96/hunky-force-333",
-      demo: "https://lucky-maamoul-8919c5.netlify.app/",
-    },
-    {
-      id: 3,
       name: "FitQuest",
       description:
         "FitQuest is an innovative, gamified fitness tracking application designed to provide users with a curated list of daily workouts for optimal health and wellness.",
@@ -33,6 +24,16 @@ const Projects = () => {
       techStack: ["CSS", "React", "Redux-thunk", "Redux", "MongoDB", "Express"],
       github: "https://github.com/izhar100/festive-crayon-1023",
       demo: "https://fitquest-beta.vercel.app/",
+    },
+    {
+      id: 3,
+      name: "Gleams",
+      description:
+        "Gleams (E-commerce platform) is an React.js application designed to provide customers with a personalized easy-to-utilize user experience for purchasing jwellery and watches online. It stores customers' personal data and orders.",
+      image: "https://i.postimg.cc/PfSW4FMD/Screenshot-2023-05-13-151034.png",
+      techStack: ["Chakra UI", "React", "Redux-thunk", "Redux", "SCSS"],
+      github: "https://github.com/santoshsen96/hunky-force-333",
+      demo: "https://lucky-maamoul-8919c5.netlify.app/",
     },
     {
       id: 4,
@@ -53,17 +54,6 @@ const Projects = () => {
       techStack: ["Next.Js", "MongoDB", "Module-Css", "React"],
       github: "https://github.com/Waseem49/movielee-napp",
       demo: "https://movie-lee.vercel.app/",
-    },
-    {
-      id: 6,
-      name: "Clothingo",
-      description:
-        "Clothingo - It is a design-obsessed lifestyle accessories brand committed to making your everyday carry #lessordinary.",
-      image:
-        "https://user-images.githubusercontent.com/104666876/208307949-419a681f-aed5-42ce-9911-f9acd87569b5.png",
-      techStack: ["HTML", "CSS", "JAVASCRIPT"],
-      github: "https://github.com/hrithikvishwakarma001/clothingo",
-      demo: "https://luxury-vacherin-56d222.netlify.app/",
     },
   ];
 
