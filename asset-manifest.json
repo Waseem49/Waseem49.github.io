@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0ec39e3.css",
-    "main.js": "/static/js/main.347623f2.js",
+    "main.js": "/static/js/main.4f3b9725.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Md-Waseem-Akram-Resume.pdf": "/static/media/Md-Waseem-Akram-Resume.62d119e99ddaec8f87ca.pdf",
     "static/media/waseempro.jpg": "/static/media/waseempro.c6892eab638850400ea7.jpg",
@@ -11,11 +11,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.c0ec39e3.css.map": "/static/css/main.c0ec39e3.css.map",
-    "main.347623f2.js.map": "/static/js/main.347623f2.js.map",
+    "main.4f3b9725.js.map": "/static/js/main.4f3b9725.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0ec39e3.css",
-    "static/js/main.347623f2.js"
+    "static/js/main.4f3b9725.js"
   ]
 }
