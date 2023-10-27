@@ -14,6 +14,16 @@ const Projects = () => {
       github: "https://github.com/Waseem49/ebn",
       demo: "https://ebn-waseem49.vercel.app/",
     },
+    {
+      id: 2,
+      name: "SecureNote",
+      description:
+        "Developed a feature-rich note-taking web application called 'SecureNote' using a full-stack tech-stack like Next.js, React.js, MongoDB, Json-web-Token, Bcypt. Users can register, log in securely, and create, edit, or delete their notes.",
+      image:
+        "https://github.com/Waseem49/SecureNote/assets/111652485/396ca5fd-ce42-413f-b5a0-d03a083b1b33",
+      techStack: ["Next.js", "Mongoose", "React", "Becrypt"],
+      demo: "https://secure-note-waseem49.vercel.app/",
+    },
 
     // {
     //   id: 2,
@@ -53,7 +63,7 @@ const Projects = () => {
       image: "https://i.ibb.co/dbzds9N/m1111111111.png",
       techStack: ["Next.Js", "MongoDB", "Module-Css", "React"],
       github: "https://github.com/Waseem49/movielee-napp",
-      demo: "https://movie-lee.vercel.app/",
+      demo: "https://movielee-waseem49.vercel.app/",
     },
   ];
 
