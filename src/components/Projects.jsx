@@ -15,16 +15,16 @@ const Projects = () => {
       demo: "https://ebn-waseem49.vercel.app/",
     },
 
-    {
-      id: 2,
-      name: "FitQuest",
-      description:
-        "FitQuest is an innovative, gamified fitness tracking application designed to provide users with a curated list of daily workouts for optimal health and wellness.",
-      image: "https://i.ibb.co/jJnnm9b/fitqqq.png",
-      techStack: ["CSS", "React", "Redux-thunk", "Redux", "MongoDB", "Express"],
-      github: "https://github.com/izhar100/festive-crayon-1023",
-      demo: "https://fitquest-beta.vercel.app/",
-    },
+    // {
+    //   id: 2,
+    //   name: "FitQuest",
+    //   description:
+    //     "FitQuest is an innovative, gamified fitness tracking application designed to provide users with a curated list of daily workouts for optimal health and wellness.",
+    //   image: "https://i.ibb.co/jJnnm9b/fitqqq.png",
+    //   techStack: ["CSS", "React", "Redux-thunk", "Redux", "MongoDB", "Express"],
+    //   github: "https://github.com/izhar100/festive-crayon-1023",
+    //   demo: "https://fitquest-beta.vercel.app/",
+    // },
     {
       id: 3,
       name: "Gleams",

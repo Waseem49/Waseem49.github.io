@@ -56,7 +56,7 @@ const Sidebar = () => {
               className="nav-link resume"
               onClick={() => {
                 window.open(
-                  "https://drive.google.com/file/d/17GInRXoR72FrT_5F75ebd4l7mr80bvhF/view?usp=sharing",
+                  "https://drive.google.com/file/d/1M_wx6AH-JqDM_uG33litidf8hcVO_8gH/view?usp=sharing",
                   "_blank"
                 );
               }}>
