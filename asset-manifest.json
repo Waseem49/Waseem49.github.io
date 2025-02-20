@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0ec39e3.css",
-    "main.js": "/static/js/main.fab22352.js",
+    "main.js": "/static/js/main.728befb8.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/waseempro.jpg": "/static/media/waseempro.c6892eab638850400ea7.jpg",
     "static/media/Waseem_Akram_Fullstack_Developer_7MOE_Resume.pdf": "/static/media/Waseem_Akram_Fullstack_Developer_7MOE_Resume.46035edae5f1550960f2.pdf",
@@ -11,11 +11,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.c0ec39e3.css.map": "/static/css/main.c0ec39e3.css.map",
-    "main.fab22352.js.map": "/static/js/main.fab22352.js.map",
+    "main.728befb8.js.map": "/static/js/main.728befb8.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0ec39e3.css",
-    "static/js/main.fab22352.js"
+    "static/js/main.728befb8.js"
   ]
 }
