@@ -43,7 +43,7 @@ const Projects = () => {
         "Gleams (E-commerce platform) is an React.js application designed to provide customers with a personalized easy-to-utilize user experience for purchasing jwellery and watches online. It stores customers' personal data and orders.",
       image: "https://i.postimg.cc/PfSW4FMD/Screenshot-2023-05-13-151034.png",
       techStack: ["Chakra UI", "React", "Redux-thunk", "Redux", "SCSS"],
-      github: "https://github.com/santoshsen96/hunky-force-333",
+      github: "https://github.com/Waseem49/hunky-force-333",
       demo: "https://lucky-maamoul-8919c5.netlify.app/",
     },
     {

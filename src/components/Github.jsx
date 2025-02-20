@@ -16,7 +16,7 @@ const Github = () => {
       </Heading>
       <Box>
         <Box
-          width={["330px", "450px", "870px"]}
+          width={["310px", "450px", "870px"]}
           margin="auto"
           marginBottom="30px"
         >
